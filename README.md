@@ -26,6 +26,7 @@ Because of the semi-common introduction of new measurements or change in name of
 
 ### Extra Info
 Ratings Explanation: https://www.cms.gov/newsroom/fact-sheets/2024-medicare-advantage-and-part-d-star-ratings
+
 Data: 
 https://www.cms.gov/medicare/health-drug-plans/part-c-d-performance-data
 
